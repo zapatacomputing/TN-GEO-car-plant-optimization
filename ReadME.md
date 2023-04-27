@@ -29,12 +29,19 @@ In the data directory, there are two subdirectories, one for each parameterizati
 All data files are in `.json` format with the following naming conventions:
 
 - For 3-body, conventional_optimizers: 
+    
     `result_margin{size of margin}_{name of conventional optimizer}_{rate deviation option}.json`
+
 - For 3-body, GEO: 
+    
     `result_margin{size of margin}_{type of encoding}_TNGEO_{name of conventional optimizer}_{rate deviation option}.json`
+
 - For 12-body, conventional_optimizers
+    
     `result_{name of conventional optimizer}__{rate deviation option}.json`
+
 - For 12-body, GEO:
+    
     `result_TNGEO_{name of conventional optimizer}_{rate deviation option}.json`
 
 ## File contents
