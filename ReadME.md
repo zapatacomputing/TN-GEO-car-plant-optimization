@@ -2,7 +2,7 @@ A public repository for storing the data presented in "Quantum-Inspired Optimiza
 
 ## What is it?
 
-This repository contains data gathered when benchmarking TN-GEO vs a set of conventional solvers (GA1, GA2, GAU, PT, SAB) for two different parameterizations (3-body and 12-body) of the BMW production planning problem. Please see : <url> for more details and explanations.
+This repository contains data gathered when benchmarking TN-GEO vs a set of conventional solvers (GA1, GA2, GAU, PT, SAB) for two different parameterizations (3-body and 12-body) of the BMW production planning problem. Please see : https://arxiv.org/abs/2305.02179 for more details and explanations.
 
 ## Structure of directories
 
